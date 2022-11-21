@@ -570,7 +570,7 @@ function App(props) {
                 and give you a form to interact with it locally
             */}
 
-            <div style={{ width: 500, margin: "auto", marginTop: 64 }}>
+            {/* <div style={{ width: 500, margin: "auto", marginTop: 64 }}>
               <div>Stake Events:</div>
               <List
                 dataSource={stakeEvents}
@@ -583,7 +583,7 @@ function App(props) {
                   );
                 }}
               />
-            </div>
+            </div> */}
 
             {/* uncomment for a second contract:
             <Contract
